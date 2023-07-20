@@ -1,0 +1,84 @@
+.ears{
+    height: 300px;
+    width: 150px;
+    border: 3px solid pink;
+    background-color: pink;
+    margin-top: -70px;
+    margin-left: 10%;
+    border-radius: 220px 220px 220px 0;   
+}
+.ear{
+    height: 300px;
+    width: 150px;
+    border: 3px solid pink;
+    background-color: pink;
+    margin-top: -310px;
+    margin-left: 60%;
+    border-radius: 220px 220px 220px 0;
+    
+}
+.face{
+    position: fixed;
+    height: 500px;
+    width: 500px;
+    border: 3px solid pink;
+    background-color: pink;
+    margin-top: 10%;
+    margin-left: 20%;
+    border-radius: 50%;
+}
+.ri{
+    position: fixed;
+    height: 100px;
+    width: 100px;
+    margin-top: -70px;
+    margin-left: 80px;
+    background-color: black;
+    border-radius: 50%;
+}
+.w{
+    position: fixed;
+    height: 60px;
+    width: 60px;
+    margin-top: 10px;
+    margin-left: 8px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 50%;
+}
+.li
+{
+    position: fixed;
+    height: 100px;
+    width: 100px;
+    margin-top: -70px;
+    margin-left: 320px;
+    background-color: black;
+    border-radius: 50%;
+}
+.nose{
+    position: fixed;
+    height: 120px;
+    width: 190px;
+    margin-top: 70px;
+    margin-left: 150px;
+    background-color: rgb(245, 4, 4);
+    border-radius: 120px 120px 120px 120px;
+}
+.rn{
+    position: fixed;
+    height: 50px;
+    width: 50px;
+    margin-top: 30px;
+    margin-left: 30px;
+    background-color: black;
+    border-radius: 50%;
+}
+.ln{
+    position: fixed;
+    height: 50px;
+    width: 50px;
+    margin-top: 30px;
+    margin-left: 110px;
+    background-color: black;
+    border-radius: 50%;
+}
